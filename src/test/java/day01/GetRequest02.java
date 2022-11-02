@@ -1,3 +1,5 @@
+package day01;
+
 import io.restassured.response.Response;
 import org.hamcrest.Matchers;
 import org.junit.Test;
